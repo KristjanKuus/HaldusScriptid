@@ -21,6 +21,6 @@ Enne kui skript töötab, on võimalik, et peate muutma oma gruppi politiikat. E
 
 `Get-ExecutionPolicy`
 
-Kui ExecutionPolicy on "restricted", kasutage järgmist käsku:
+Kui execution policy on "restricted", kasutage järgmist käsku:
 
-`set-executionpolicy remotesigned`
+`Set-ExecutionPolicy remotesigned`
