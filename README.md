@@ -15,7 +15,7 @@ Hoidlas olevad skriptid teevad järgmist
 2. Paigalda alla laetud failid kausta, kust kasutad Powershelli 
 - Või
 2. Powershellis liigu kausta, kuhu salvestasid skriptid
-3. Aktiveeri soovitud skript käsuga .\(Skripti-nimi).ps1
+3. Aktiveeri soovitud skript käsuga `.\(Skripti-nimi).ps1`
 
 Enne kui skript töötab, on võimalik, et peate muutma oma gruppi politiikat. Et näha asjakohast gruppi politiikat, sisetage järgmine käsk Powershellis administraatorina.
 
