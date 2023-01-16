@@ -12,10 +12,10 @@ Hoidlas olevad skriptid teevad järgmist
 # Paigaldusjuhised
 
 1. Lae repositooriumis olevad failid alla
-2. Paigalda alla laetud failid kausta, kust kasutad Powershelli 
-- VÕI
-3. Powershellis liigu kausta, kuhu salvestasid skriptid
-4. Aktiveeri soovitud skript käsuga .\(Skripti-nimi).ps1
+2a. Paigalda alla laetud failid kausta, kust kasutad Powershelli 
+- Või
+2b. Powershellis liigu kausta, kuhu salvestasid skriptid
+3. Aktiveeri soovitud skript käsuga .\(Skripti-nimi).ps1
 
 Enne kui skript töötab, on võimalik, et peate muutma oma gruppi politiikat. Et näha asjakohast gruppi politiikat, sisetage järgmine käsk Powershellis administraatorina.
 
