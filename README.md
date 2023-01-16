@@ -13,7 +13,7 @@ Hoidlas olevad skriptid teevad järgmist
 
 1. Lae repositooriumis olevad failid alla
 2. Paigalda alla laetud failid kausta, kust kasutad Powershelli 
-VÕI
+- VÕI
 3. Powershellis liigu kausta, kuhu salvestasid skriptid
 4. Aktiveeri soovitud skript käsuga .\(Skripti-nimi).ps1
 
