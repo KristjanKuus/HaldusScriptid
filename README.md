@@ -25,3 +25,5 @@ Kui execution policy on "restricted", kasutage järgmist käsku:
 
 `Set-ExecutionPolicy remotesigned`
 
+# Litsents
+See projekt on litsenseeritud  MIT Litsensi all - vaatage LICENSE.md faili detailide jaoks
