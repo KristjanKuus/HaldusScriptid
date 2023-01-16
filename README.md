@@ -9,7 +9,7 @@ Hoidlas olevad skriptid teevad järgmist
 - Konto kustutamine AD'st
 - AD kontode puhul on ka olemas eesti keelsete tähtede transliteratsiooni funktsioon
 
-# Paigaldusjuhised
+# Paigaldusjuhised ja Kasutamine
 
 1. Lae repositooriumis olevad failid alla
 2. Paigalda alla laetud failid kausta, kust kasutad Powershelli 
@@ -24,3 +24,4 @@ Enne kui skript töötab, on võimalik, et peate muutma oma gruppi politiikat. E
 Kui execution policy on "restricted", kasutage järgmist käsku:
 
 `Set-ExecutionPolicy remotesigned`
+
